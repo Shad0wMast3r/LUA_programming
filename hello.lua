@@ -49,7 +49,7 @@ type(type(X))-->defualt of type is String
 --]]
 
 --[[
-    print("Boolean Values");
-    4 and 5-->5
+    Boolean Values
+    4 and 5-->5 the value on the left is false
     nil and 13-->nil
 ]]
